@@ -1,4 +1,4 @@
-#Hello there,
+# Hello there,
 - 👋 Hi, I’m Vinay
 - 👀 I’m interested in Web development/UI/Fll stack development.
 - 🌱 I’m a B.Sc Computer science graduate from 2020 ...
