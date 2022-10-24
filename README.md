@@ -1,8 +1,6 @@
 # Hello there,
 - 👋 Hi, I’m Vinay
-- 👀 I’m interested in Web development / UI / Full stack development.
-- 🌱 I’m a B.Sc Computer science graduate from 2020 ...
-- 💞️ I’m a Fresher, Jobseeker, Self Learner.
+- 👀 I’m interested in Web development / UI / Full stack development / Android.
 - 📫 How to reach me vinayn0147@gmail.com.
 
 <!---
